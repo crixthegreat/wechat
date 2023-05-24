@@ -24,8 +24,8 @@ from urllib.parse import urlencode
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
-API_KEY = 'LjP0sPEPPo05Ox7RdjPCVS4D'
-SECRET_KEY = 'ISbNBpiLVlTQnsGPW3OgGEptHDCnh3cI'
+API_KEY = ''
+SECRET_KEY = ''
 
 OCR_URL = "https://aip.baidubce.com/rest/2.0/ocr/v1/general"
 """  TOKEN start """
